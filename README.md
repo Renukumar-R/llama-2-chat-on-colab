@@ -74,7 +74,9 @@ That's it! You are now ready to have interactive conversations with Llama 2 and 
 For more details about the "llama-cpp-python" library and its functionalities, you can refer to its official documentation and GitHub repository.
 
 Documentation: https://llama.readthedocs.io/en/latest/
+## License
 
+Llama 2 is provided under the [MIT License](https://opensource.org/licenses/MIT).
 ---
 
 By Renukumar R
