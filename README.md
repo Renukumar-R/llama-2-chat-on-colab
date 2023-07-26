@@ -75,10 +75,6 @@ For more details about the "llama-cpp-python" library and its functionalities, y
 
 Documentation: https://llama.readthedocs.io/en/latest/
 
-## License
-
-Llama 2 is provided under the [MIT License](https://opensource.org/licenses/MIT).
-
 ---
 
 By Renukumar R
