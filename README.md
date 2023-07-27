@@ -32,7 +32,7 @@ model_path = hf_hub_download(repo_id=model_path, filename=model_basename)
 
 lcpp_llm = Llama(
     model_path=model_path,
-    n_threads=4,       # Number of CPU cores
+    n_threads=2,       # Number of CPU cores
     n_batch=512,       # Batch size, consider your GPU's VRAM
     n_gpu_layers=32    # Adjust based on your model and GPU VRAM
 )
